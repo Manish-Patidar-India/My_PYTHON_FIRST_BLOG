@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/stock market",
+    "prod_uri":"mysql://root:@localhost/stock market",
+    "fb_url":"https://facebook.com/market_analysis",
+    "tw_url":"https://twitter.com/market_analysis",
+    "gh_url": "https://github.com/market_analysis",
+    "blog_name": "Traders Platform",
+    "tag_line": "Let's start today making money...",
+    "gmail-user":"manishpatidar2006@gmail.com",
+    "gmail-password":"gmailpassword",
+    "about_text": "Hi my name is Manish and I have been investing in stock market from 2015 and have learned a different phases of market. I also provide market knowledge based on  experience in future and option trading ",
+    "no_of_posts": 2,
+    "login_image":"profile.jpg",
+    "admin_user":"manish",
+    "admin_password": "manish9",
+    "upload_location":"F:\\pythonProject\\static"
+
+
+  }
+
+}
